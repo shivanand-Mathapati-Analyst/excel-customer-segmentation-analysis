@@ -10,6 +10,10 @@
 [![Data Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-blue?style=for-the-badge)](#️-data-model)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
+<br>
+
+<img src="images/preview.gif" alt="Dashboard Preview" width="100%">
+
 </div>
 
 ---
