@@ -112,11 +112,10 @@ This project analyzes 13 months of transaction data from a UK-based online retai
 
 ## 🗃️ Data Model
 
-A **star schema with 5 tables**, built in Power Pivot:
+A **star schema with 4 tables**, built in Power Pivot:
 
-- **Raw_Data / Fact table** — one row per invoice line item (541,909 raw rows)
+- **Fact table** — one row per invoice line item (541,909 raw rows)
 - **Customer dimension** — one row per customer, with RFM scores and Segment
-- **Product dimension**
 - **Country dimension**
 - **Calendar (Date) dimension** — powers all month/quarter/time-based pivots and slicers
 
