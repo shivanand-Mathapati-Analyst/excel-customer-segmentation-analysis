@@ -20,7 +20,7 @@
 - [Overview](#-overview)
 - [Business Problem & Objective](#-business-problem--objective)
 - [Key Features](#-key-features)
-- [Dashboard Preview](#️-dashboard-pages)
+- [Dashboard Preview](#️-dashboard-preview)
 - [Data Model](#️-data-model)
 - [RFM & Segmentation Logic](#-rfm--segmentation-logic)
 - [ETL / Data Transformation](#-etl--data-transformation)
