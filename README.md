@@ -237,10 +237,10 @@ Also part of a broader retail analytics portfolio built on the Superstore datase
 
 **Shivanand S. Mathapati**
 
-- 🌐 Portfolio: [shivanand-mathapati.vercel.app](https://shivanand-mathapati.vercel.app)
-- 💼 LinkedIn: *[Add link here]*
-- 📺 YouTube: *[Add link here]*
-- ✉️ Email: *[Add email here]*
+- 🌐 Portfolio: 
+- 💼 LinkedIn: 
+- 📺 YouTube: 
+- ✉️ Email: 
 
 ---
 
