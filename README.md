@@ -10,9 +10,6 @@
 [![Data Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-blue?style=for-the-badge)](#️-data-model)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
-<br>
-
-<img src="images/preview.gif" alt="Dashboard Preview" width="100%">
 
 </div>
 
@@ -23,7 +20,7 @@
 - [Overview](#-overview)
 - [Business Problem & Objective](#-business-problem--objective)
 - [Key Features](#-key-features)
-- [Dashboard Pages](#️-dashboard-pages)
+- [Dashboard Preview](#️-dashboard-pages)
 - [Data Model](#️-data-model)
 - [RFM & Segmentation Logic](#-rfm--segmentation-logic)
 - [ETL / Data Transformation](#-etl--data-transformation)
@@ -80,7 +77,14 @@ This project analyzes 13 months of transaction data from a UK-based online retai
 
 ---
 
-## 🖥️ Dashboard Pages
+## 🖥️ Dashboard Preview
+
+<br>
+
+<img src="images/preview.gif" alt="Dashboard Preview" width="100%">
+
+</div>
+
 
 | Sheet | Contents |
 |---|---|
