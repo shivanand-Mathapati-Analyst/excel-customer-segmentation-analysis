@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📗 Customer Segmentation & Revenue Intelligence — Excel
+# 📗 Customer Segmentation Analysis — Excel Dashboard
 
 ### End-to-end RFM customer segmentation built entirely in Excel, Power Query, Power Pivot & DAX
 
