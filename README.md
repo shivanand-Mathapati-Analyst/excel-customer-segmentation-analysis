@@ -79,31 +79,25 @@ This project analyzes 13 months of transaction data from a UK-based online retai
 
 ## 🖥️ Dashboard Preview
 
-<br>
-
-
-
-</div>
-
-## 📸 Dashboard Pages
-
 > 📂 Open the `.xlsx` file and navigate to the **📊 Customer_Segmentation_Dashboard** sheet to interact with the full dashboard including slicers and dynamic charts.  
-> 📌 The dashboard provides an interactive, executive-level view of retail sales performance.  
-> Use slicers to dynamically filter data by Region, Category, Segment, and Year.
+> 📌 The dashboard provides an interactive, segment-level view of each segment performance.  
+> Use slicers to dynamically filter data by Country, Recency & Segment.
 
 
 ### 🔹 Live Dashboard Preview
 <img src="images/preview.gif" alt="Dashboard Preview" width="100%">
 
 ### 🔹 Customer Segmentation Analysis Dashboard
-![Revenue Trend](./images/dashboard-01.png)
+![Segment](./images/dashboard-01.png)
 
 ### 🔹 Customer Segmentation & Revenue Intelligence Dashboard
-![Region Performance](./images/dashboard-02.png)
+![Revenue_Trend](./images/dashboard-02.png)
 
 
 
 ---
+## 🖥️ Worksheets
+
 | Sheet | Contents |
 |---|---|
 | 🏠 **Project Overview** | Business problem, objective, tools used, analytical pipeline, data model summary |
@@ -113,7 +107,6 @@ This project analyzes 13 months of transaction data from a UK-based online retai
 | 🎯 **KPI Analysis** | 16 headline KPI cards: Revenue, Orders, Customers, Churn, Retention, CLV, Segment counts, and more |
 | 🔍 **EDA** | Pivot-table breakdowns: revenue/customers by segment, by country, by recency, by month, top customers, R-Score × F-Score distribution |
 | 🧩 **Data Model** | Star schema relationship diagram description |
-| 📅 **Calendar** | Date dimension table powering all time-based analysis |
 
 ---
 
