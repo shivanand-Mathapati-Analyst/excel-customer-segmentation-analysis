@@ -2,7 +2,7 @@
 
 # 📗 Customer Segmentation Analysis — Excel Dashboard
 
-### End-to-end RFM customer segmentation built entirely in Excel, Power Query, Power Pivot & DAX
+### End-to-end RFM customer segmentation built entirely in Excel, Power Query, Power Pivot & DAX 
 
 [![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power Query](https://img.shields.io/badge/Power%20Query-M%20Code-1E7145?style=for-the-badge)](#-etl--data-transformation)
