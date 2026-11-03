@@ -239,7 +239,6 @@ Also part of a broader retail analytics portfolio built on the Superstore datase
 
 - 🌐 Portfolio: 
 - 💼 LinkedIn: 
-- 📺 YouTube: 
 - ✉️ Email: 
 
 ---
