@@ -210,7 +210,7 @@ Part of a multi-tool Customer Segmentation portfolio, built on the same Online R
 
 | Project | Tool | Link |
 |---|---|---|
-| 📊 Customer Segmentation Analysis (this same dataset) | Power BI |  |
+| 📊 Customer Segmentation Analysis (this same dataset) | Power BI | [github.com/shivanand-Mathapati-Analyst/powerbi-customer-segmentation-analysis-project](https://github.com/shivanand-Mathapati-Analyst/powerbi-customer-segmentation-analysis) |
 | 🗄️ Customer Segmentation Analysis (this same dataset) | SQL Server |  |
 
 Also part of a broader retail analytics portfolio built on the Superstore dataset:
