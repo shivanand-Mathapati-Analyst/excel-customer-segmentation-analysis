@@ -37,7 +37,13 @@
 
 ## 📌 Overview
 
-This project analyzes 13 months of transaction data from a UK-based online retailer using **RFM (Recency, Frequency, Monetary) segmentation** — built entirely inside **Microsoft Excel**, using **Power Query** for ETL, a **Power Pivot star schema** for the data model, and **DAX** for all scoring and KPI logic. It's the original, Excel-native version of a project also rebuilt in Power BI and SQL Server, all three sharing the same dataset, the same RFM methodology, and — after cross-checking all three against each other — closely matching final numbers.
+This project features **two interactive Microsoft Excel dashboards** built using the UK-based **Online Retail** dataset (2009–2011, UK retail operations). It transforms 541,909 transaction records into meaningful business insights through two analytical perspectives: **Customer Segmentation Analysis** and **Customer Segmentation & Revenue Intelligence Analysis**.
+
+**This project is part of a three-tool analytics portfolio built on the same UK-based Online Retail dataset.**
+
+This project uses the same Online Retail dataset as my [Power BI](https://github.com/shivanand-Mathapati-Analyst/powerbi-customer-segmentation-analysis) and [SQL Server](https://github.com/shivanand-Mathapati-Analyst/sql-customer-segmentation-analysis) projects, demonstrating how the same business problem can be analyzed and solved using three different analytics tools: **Microsoft Excel, Power BI, and SQL Server**.
+
+The goal was to go beyond traditional spreadsheet reporting and build a comprehensive, interactive analytical solution using **Power Query, Power Pivot, Data Modeling, DAX, and Pivot Tables**. The dashboards leverage **RFM (Recency, Frequency, Monetary) analysis** to segment customers based on purchasing behavior, evaluate customer value, track revenue contribution, identify high-value and at-risk customers, and uncover revenue opportunities. Dynamic slicers and interactive visualizations enable deeper exploration of customer performance and business trends.
 
 | | |
 |---|---|
