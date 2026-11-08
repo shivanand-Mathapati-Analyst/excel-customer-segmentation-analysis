@@ -26,7 +26,6 @@
 - [ETL / Data Transformation](#-etl--data-transformation)
 - [Tech Stack](#️-tech-stack)
 - [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
 - [Key Findings](#-key-findings)
 - [Root Causes & Caveats](#-root-causes--caveats)
 - [Recommendations & Actions](#-recommendations--actions)
@@ -174,15 +173,6 @@ Customer-Segmentation-Excel/
 │   └── dashboard-preview.png
 └── README.md
 ```
-
----
-
-## 🚀 How to Use
-
-1. Open `Customer_Segmentation_Dashboard_Full.xlsx` in **Excel** (Power Pivot and Power Query require Excel 2016+ or Microsoft 365)
-2. If prompted, update the data source path under **Data → Queries & Connections** to point to your local copy of the raw dataset
-3. Click **Data → Refresh All** to reload the model
-4. Explore the **Segment Performance Dashboard** and **Customer Intelligence Dashboard** sheets, using the slicers to filter by segment, country, or time period
 
 ---
 
